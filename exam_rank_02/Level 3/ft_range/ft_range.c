@@ -4,9 +4,10 @@
 int	*ft_range(int start, int end)
 {
 	int *range;
-	int size = end - start + 1;
+	int size;
 	int i;
-
+	
+	size = end - start + 1;
 	if (start > end)
 		size = start - end + 1;
 
