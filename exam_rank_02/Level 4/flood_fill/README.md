@@ -5,9 +5,13 @@ Expected files   : *.c, *.h
 Allowed functions: -
 --------------------------------------------------------------------------------
 
-Escribe una función que reciba un char ** como un array bidimensional de caracteres, un t_point como las dimensiones de este array y un t_point como el punto de inicio.
+Escribe una función que reciba un char ** como un array bidimensional de caracteres,
+un t_point como las dimensiones de este array y un t_point como el punto de inicio.
 
-Empezando desde el t_point dado llamado 'begin', esta función rellena toda una zona reemplazando los caracteres dentro con el carácter 'F'. Una zona es un grupo del mismo carácter delimitado horizontal y verticalmente por otros caracteres o por los bordes del array.
+Empezando desde el t_point dado llamado 'begin', esta función rellena toda una zona
+reemplazando los caracteres dentro con el carácter 'F'. Una zona es un grupo del mismo
+carácter delimitado horizontal y verticalmente por otros caracteres o por los bordes
+del array.
 
 La función flood_fill no rellenará en diagonal.
 
