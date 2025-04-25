@@ -5,16 +5,15 @@ Expected files   : add_prime_sum.c
 Allowed functions: write, exit
 --------------------------------------------------------------------------------
 
-Write a program that takes a positive integer as argument and displays the sum
-of all prime numbers inferior or equal to it followed by a newline.
+Escribe un programa que reciba un número entero positivo como argumento y muestre la suma
+de todos los números primos menores o iguales a él, seguido de un salto de línea.
 
-If the number of arguments is not 1, or the argument is not a positive number,
-just display 0 followed by a newline.
+Si el número de argumentos no es 1, o si el argumento no es un número positivo, muestra solo
+un 0 seguido de un salto de línea.
 
-Yes, the examples are right.
+Sí, los ejemplos son correctos.
 
-Examples:
-
+Ejemplos:
 $>./add_prime_sum 5
 10
 $>./add_prime_sum 7 | cat -e
