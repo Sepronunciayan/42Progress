@@ -3,9 +3,11 @@
 Expected Files: rot_13.c
 Allowed functions: write
 --------------------------------------------------------------------------------
-Escribe un programa que reciba una cadena y la muestre, reemplazando cada una de sus letras por la letra
+Escribe un programa que reciba una cadena y la muestre, reemplazando cada una
+de sus letras por la letra
 que se encuentra 13 espacios adelante en el orden alfabético.
-'z' se convierte en 'm' y 'Z' se convierte en 'M'. La mayúscula o minúscula no se ve afectada.
+'z' se convierte en 'm' y 'Z' se convierte en 'M'. La mayúscula o minúscula no
+se ve afectada.
 La salida irá seguida de un salto de línea.
 Si el número de argumentos no es 1, el programa muestra un salto de línea.
 
