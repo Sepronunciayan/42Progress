@@ -3,8 +3,8 @@
 Expected Files: rotone.c
 Allowed functions: write
 --------------------------------------------------------------------------------
-Escribe un programa que reciba una cadena y la muestre, reemplazando cada una de sus letras por
-la siguiente en el orden alfabético.
+Escribe un programa que reciba una cadena y la muestre, reemplazando cada una
+de sus letras por la siguiente en el orden alfabético.
 'z' se convierte en 'a' y 'Z' se convierte en 'A'.
 La mayúscula o minúscula no se ve afectada. La salida irá seguida de un \n.
 Si el número de argumentos no es 1, el programa muestra \n.
