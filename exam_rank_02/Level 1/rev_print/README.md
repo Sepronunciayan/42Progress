@@ -3,7 +3,8 @@
 Expected Files: rev_print.c
 Allowed functions: write
 --------------------------------------------------------------------------------
-Escribe un programa que reciba una cadena y muestre la cadena en reversa seguida de un salto de línea.
+Escribe un programa que reciba una cadena y muestre la cadena en reversa
+seguida de un salto de línea.
 Si el número de parámetros no es 1, el programa muestra un salto de línea.
 
 Ejemplos:
