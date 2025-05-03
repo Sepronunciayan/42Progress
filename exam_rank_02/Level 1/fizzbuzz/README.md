@@ -5,7 +5,8 @@ Expected files   : fizzbuzz.c
 Allowed functions: write
 --------------------------------------------------------------------------------
 
-Escribe un programa que imprima los números del 1 al 100, cada uno seguido de una nueva línea.
+Escribe un programa que imprima los números del 1 al 100, cada uno
+seguido de una nueva línea.
 
 Si el número es múltiplo de 3, imprime 'fizz' en su lugar.
 
