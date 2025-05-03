@@ -6,14 +6,17 @@ Allowed functions: atoi, printf, write
 
 Escribe un programa que reciba tres cadenas:
 
-- La primera y la tercera son representaciones de enteros con signo en base-10 que caben en un int.
+- La primera y la tercera son representaciones de enteros con signo en base-10
+que caben en un int.
 
 - La segunda cadena es un operador aritmético elegido de entre: +, -, *, /, %.
 
-El programa debe mostrar el resultado de la operación aritmética solicitada, seguido de un salto de línea.
+El programa debe mostrar el resultado de la operación aritmética solicitada,
+seguido de un salto de línea.
 Si el número de parámetros no es 3, el programa solo mostrará un salto de línea.
 Puedes suponer que las cadenas no contienen errores ni caracteres extraños.
-Los números negativos, ya sea en la entrada o salida, tendrán únicamente un signo negativo al principio.
+Los números negativos, ya sea en la entrada o salida, tendrán únicamente un signo
+negativo al principio.
 El resultado de la operación cabrá dentro de un int.
 
 Ejemplos:
