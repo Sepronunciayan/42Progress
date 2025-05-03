@@ -4,9 +4,13 @@ Expected Files: alpha_mirror.c
 Allowed functions: write
 --------------------------------------------------------------------------------
 
-Escribe un programa llamado alpha_mirror que reciba una cadena y muestre esta cadena después
-de reemplazar cada carácter alfabético por el carácter alfabético opuesto, seguido de una nueva línea.  
-'a' se convierte en 'z', 'Z' se convierte en 'A', 'd' se convierte en 'w', 'M' se convierte en 'N' y así sucesivamente.  
+Escribe un programa llamado alpha_mirror que reciba una cadena y muestre esta cadena
+después de reemplazar cada carácter alfabético por el carácter alfabético opuesto,
+seguido de una nueva línea.  
+'a' se convierte en 'z',
+'Z' se convierte en 'A',
+'d' se convierte en 'w',
+'M' se convierte en 'N' y así sucesivamente.  
 Las mayúsculas y minúsculas no se cambian entre sí.  
 Si el número de argumentos no es 1, muestra solo una nueva línea.  
 
