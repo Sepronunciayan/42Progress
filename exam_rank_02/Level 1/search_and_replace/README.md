@@ -3,13 +3,15 @@
 Expected Files: search_and_replace.c
 Allowed functions: write, exit
 --------------------------------------------------------------------------------
-Escribe un programa llamado search_and_replace que reciba 3 argumentos, el primer argumento es una
-cadena en la cual se reemplazará una letra (segundo argumento) por otra (tercer argumento).
+Escribe un programa llamado search_and_replace que reciba 3 argumentos, el primer
+argumento es una cadena en la cual se reemplazará una letra (segundo argumento)
+por otra (tercer argumento).
 
 -Si el número de argumentos no es 3, simplemente muestra una nueva línea.
 -Si el segundo argumento no está contenido en el primero
 
-(la cadena), entonces el programa simplemente reescribe la cadena seguida de una nueva línea.
+(la cadena), entonces el programa simplemente reescribe la cadena seguida de una
+nueva línea.
 
 Ejemplos:
 $>./search_and_replace "Papache est un sabre" "a" "o"
